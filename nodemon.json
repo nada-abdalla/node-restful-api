@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "new1357htmldalia2",
+        "JWT_KEY": "secret"
+    }
+}
